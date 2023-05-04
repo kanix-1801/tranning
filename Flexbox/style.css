@@ -8,9 +8,11 @@ body {
   width: 100px;
 }
 .container {
+  height: 1500px;
   display: flex;
   flex-direction: row-reverse;
   justify-content: space-between;
+  align-items: center;
 }
 
 .red {
