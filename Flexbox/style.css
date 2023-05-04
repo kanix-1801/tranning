@@ -1,0 +1,41 @@
+body {
+  background-color: aliceblue;
+  text-align: center;
+  /* display: inline; */
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.brown {
+  background-color: brown;
+}
+
+.magneta {
+  background-color: magenta;
+}
+
+.cyan {
+  background-color: cyan;
+}
+
+.black {
+  background-color: black;
+}
+
+.teal {
+  background-color: teal;
+}
